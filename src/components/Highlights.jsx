@@ -1,5 +1,5 @@
 import React from "react";
-import { FontAwesomeIcon } from "@fontawesome/react-fontawesome";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Highlight from "./ui/Highlight";
 
 const Highlights = () => {
